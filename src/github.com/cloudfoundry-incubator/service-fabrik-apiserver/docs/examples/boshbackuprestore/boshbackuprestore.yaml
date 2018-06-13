@@ -1,0 +1,7 @@
+note: BOSHBackupRestore Example
+sample: |
+  apiVersion: backup.servicefabrik.io/v1alpha1
+  kind: BOSHBackupRestore
+  metadata:
+    name: boshbackuprestore-example
+  spec:
